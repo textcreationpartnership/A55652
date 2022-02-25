@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prayer unto the glorious Virgin Mary Mother of God</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55652</idno>
+            <idno type="STC">Wing P3195BA</idno>
+            <idno type="STC">ESTC R218347</idno>
+            <idno type="EEBO-CITATION">99829950</idno>
+            <idno type="PROQUEST">99829950</idno>
+            <idno type="VID">34397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55652)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34397)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2014:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prayer unto the glorious Virgin Mary Mother of God</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed, an Dom. 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of title page: Permissu superiorum.</note>
+                  <note>Running title: A prayer to the B.V. Mary.</note>
+                  <note>Reproduction of the original at the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34397:1"/>
+            <pb facs="tcp:34397:1" rendition="simple:additions"/>
+            <p>A PRAYER UNTO THE GLORIOUS VIRGIN MARY Mother of God.</p>
+            <figure>
+               <head>IHS</head>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed, An Dom. 1675.</p>
+            <p>Permiſſu Superiorum.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:34397:2" rendition="simple:additions"/>
+            <p>WHoſoever ſhall ſay devoutly theſe enſu<g ref="char:EOLhyphen"/>ing Prayers in ho<g ref="char:EOLhyphen"/>nour of the moſt Sacred paſſion of our Lord and Saviour <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> and in the honour of his moſt B. Mother the Virgin <hi>Mary,</hi> and continue the ſaid Devotion for the ſpace of Thirty days, may hope mercifully to obtain his lawful Requeſt, as hath been often experienced.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb n="3" facs="tcp:34397:2"/>
+            <head>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> devout and moſt Efficaci<g ref="char:EOLhyphen"/>ous Prayer to the Virgin <hi>MARY.</hi>
+            </head>
+            <p>EVer glorious and bleſſed Virgin <hi>Mary,</hi> Queen of Virgins, Mother of Mercy, Hope and Comfort of all de<g ref="char:EOLhyphen"/>ſolate Souls: Through that ſword of grief which pierc'd your heart, whilſt your only Son <hi>Christ Jeſus</hi> our Lord, ſuf<g ref="char:EOLhyphen"/>fered Death and Ignominy on the Croſs; Through his filial <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nderneſs of pureſt Love in your behalf, grieving in your grief, whilſt from his Croſs, he bequeath'd you to the pro<g ref="char:EOLhyphen"/>tection
+<pb facs="tcp:34397:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:34397:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:34397:4"/>and care of his Vica<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> St. <hi>John;</hi> take pity, I beſeech you, on my Poverty and Wants, have compaſſion o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my anxiety and cares, hel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and comfort me in all my Infir<g ref="char:EOLhyphen"/>mities and miſeries whatſoever. You are the Mother of mercies, the ſweet comfort of the afflic<g ref="char:EOLhyphen"/>ted and deſolate, the only re<g ref="char:EOLhyphen"/>fuge of all needy and Orphans. Caſt then an eye of pitty on the Tears of a miſerable, forlorn Wretch, and hear my Prayers, and ſeeing [for juſt puniſhment of my ſins] I am ſurrounde<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with many Evils, and much An<g ref="char:EOLhyphen"/>guiſh, unto whom ſhall I have Recourſe, or where can I be
+<pb n="5" facs="tcp:34397:4"/>more ſecurely ſheltered, than <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder the Mantle of your Mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erly protection, O Virgin <hi>Mary,</hi> my ſweeteſt <hi>Lady,</hi> Mo<g ref="char:EOLhyphen"/>ther of my Lord and Saviour <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſus Chriſt,</hi> comfort and re<g ref="char:EOLhyphen"/>dreſs of our loſt Nature. Lend therefore, I beſeech you, an <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar of compaſſion and pitty, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o my humble Requeſts and Prayers; I beg it, by thoſe bowels of Mercy of your dear<g ref="char:EOLhyphen"/>eſt Son; by that ſweetneſs wherewith he embraced our humane Nature, when delibe<g ref="char:EOLhyphen"/>rating with the two other Di<g ref="char:EOLhyphen"/>vine Perſons, and with ſecret power of the Holy Ghoſt your conſent firſt being by
+<pb n="6" facs="tcp:34397:5"/>the Angel demanded and ob<g ref="char:EOLhyphen"/>tained] GOD BECAME MAN<g ref="char:punc">▪</g> and Nine Months expired vouchſafing mercifully to viſit the World with his gracious Preſence, came forth from the chaſt incloſure of your Virgi<g ref="char:EOLhyphen"/>nal Womb; I beg it by that anguiſh of mind, which your aforeſaid dear Son, our Lord <hi>Jeſus Chriſt</hi> indured at Mount <hi>Olivet,</hi> beſeeching his Heaven<g ref="char:EOLhyphen"/>ly Father to take away [if poſſible] that bitter Chalice of his future Paſſion; by his three times repeated Prayer in the Garden, and your mournful Steps, when with Tears you accompanied him to that dole<g ref="char:EOLhyphen"/>ful
+<pb n="7" facs="tcp:34397:5"/>ſpectacle of his Death and Sufferings; by his Whips, Scoffs, Cords, Ignominies, falſe Accu<g ref="char:EOLhyphen"/>ſations and unjuſt Condemna<g ref="char:EOLhyphen"/>tion; by that Garment gain'd at a Caſt at Dice, by his Tears, and Drops of bloody Sweat; by his ſilence and patience, by his fear, ſadneſs, and grief of Heart; by his Confuſion and Baſhfulneſs, hanging naked on a Croſs, in your preſence, and in ſight of the whole World; by his Royal Head pierc'd with Thorns, and ſtruck with a Reed; by his Thirſt and pain<g ref="char:EOLhyphen"/>ful Potion of Vinegar and Gall; by that Lance that pierc'd his Sacred Side, and by that Blood
+<pb n="8" facs="tcp:34397:6"/>and Water, which flowing thence, did ſhowre on us plenty of mercy and grace; by thoſe Nails ſtruck into his Hands and Feet; by that precious Soul, and ſweet Spirit, which he (cry<g ref="char:EOLhyphen"/>ing with a loud voice, <hi>My God, my God, why haſt thou forſaken me</hi>) recommended to his Hea<g ref="char:EOLhyphen"/>venly Father, and with an in<g ref="char:EOLhyphen"/>clined head, gave up the Ghoſt; ſaying, <hi>All is conſummated,</hi> by the rending of the Rocks, and tearing of the Vail of the Tem<g ref="char:EOLhyphen"/>ple, by the Earth quake and darkning of the Sun and Moon, by his mercy ſhewed to the good Thief; by his adorable Croſs and bitter Paſſion; by
+<pb n="9" facs="tcp:34397:6"/>his deſcent to Hell, and all thoſe Souls which he comforted with his glorious ſight; by the joy, glory, and Victory of his Holy Reſurrection, appearing unto you, his Elect Virgin-Mo<g ref="char:EOLhyphen"/>ther, and to the reſt of his Diſ<g ref="char:EOLhyphen"/>ciples for forty days; by his ad<g ref="char:EOLhyphen"/>mirable Aſcenſion, when you all beholding him, he was eleva<g ref="char:EOLhyphen"/>ted into Heaven; by the Grace of the Holy <hi>Paraclet,</hi> which he in fiery Tongues infuſed into the hearts of his Diſciples, and by their zeal inflamed the reſt of the Univers by that laſt and dreadful day, when he ſhall come to judge the living and the dead, and the world in
+<pb n="10" facs="tcp:34397:7"/>fire; by all the compaſſion he bore you in this life; by the raviſhing ſweetneſs of his eyes; and by the ineffable joy you felt, being in his ſight aſſumed into Heaven; where, World without end, you live and re<g ref="char:EOLhyphen"/>joyce in him: Comfort my heart, and hear this my Prayer, for which I am your humble Suppliant. <hi>(Ask here Devoutly whatſoever you pleaſe.)</hi> And as I am confident he can refuſe no<g ref="char:EOLhyphen"/>thing unto you, and doth ho<g ref="char:EOLhyphen"/>nour you, ſo let me ſpeedily, fully, and efficaciouſly experi<g ref="char:EOLhyphen"/>ence your Help and Comfort, according to the ſweetneſs of your Motherly, and of his
+<pb n="11" facs="tcp:34397:7"/>Filial loving heart, who gran<g ref="char:EOLhyphen"/>teth mercifully the requeſt of all that love him, and doth the will of all that fear him. Where<g ref="char:EOLhyphen"/>fore O moſt B. V. <hi>Mary</hi> (ac<g ref="char:EOLhyphen"/>cording to my preſent need in this, and in all other things whatſoever, for the which I humbly invoke your Sacred Name and Aſſiſtance) obtain for me of your deareſt Son our Lord God, firm hope in the Catholick Faith, perfect Cha<g ref="char:EOLhyphen"/>rity, true Contrition of Heart, a Fountain of Tears, ſincere Confeſſion, and refraining from Sin, condign Satisfaction, Love of God and my Neighbour, contempt of the world, and
+<pb n="12" facs="tcp:34397:8"/>true Patience, to ſuffer affronts, ignominies, and (if need be) an approbrious Death, for Love of your Son our Redeemer <hi>Jeſus Chriſt.</hi> Obtain for me perſeverance in good works, performance of my good Pur<g ref="char:EOLhyphen"/>poſes and Vows, Mortification of Self-will, Converſation plea<g ref="char:EOLhyphen"/>ſing unto you, and in the laſt hour of my Life, a ſtrong and true Repentance, and preſence to my ſelf in Word and Mind, and a happy Death. Laſtly, for the Souls of my Parents, Bro<g ref="char:EOLhyphen"/>thers, Siſters, Benefactors alive and dead, obtain for us all, I beſeech you, Life everlaſting. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb n="13" facs="tcp:34397:8"/>
+            <head>Another ſhort Prayer to the ſame.</head>
+            <p>HAil Bleſſed Virgin <hi>Mary,</hi> Mother of God, Queen of Heaven, Gate of Paradiſe, &amp; <hi>Lady</hi> of the world. Thou art a ſingular pure Virgin. Thou wert conceived without Sin, conceivedſt alſo, and brought forth without blemiſh, your Son <hi>Jeſus,</hi> the Creatour and Redeemer of the world. All this do I believe undoubtedly. Pray for me to <hi>Jeſus</hi> your be<g ref="char:EOLhyphen"/>loved Son, and free me from all Evil. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb n="14" facs="tcp:34397:9"/>
+            <head>A Devout Prayer to our Lord Jeſus Chriſt.</head>
+            <p>GLory, Honour, and Praiſe be to our Lord Jeſus Chriſt; may all the world adore thee; Bleſſed be thy Holy Name, who for us Sinners vouchſafedſt to be born of an humble Virgin; and bleſſed be thine infinite Goodneſs, who diedſt upon the Croſs for our Redemption.</p>
+            <p>O Jeſus, Son of God, and Sa<g ref="char:EOLhyphen"/>viour of Mankind, We beſeech thee, have mercy on us, and ſo diſpoſe our Lives here by thy Grace, that we may hereafter rejoyce with thee for ever in thy Heavenly Kingdom. Amen.</p>
+            <pb facs="tcp:34397:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
